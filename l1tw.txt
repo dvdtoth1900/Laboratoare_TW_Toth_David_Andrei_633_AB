@@ -1,0 +1,190 @@
+!DOCTYPE <html>
+<head>
+    <meta charset="UTF-8">
+  
+    <title>Retetele mele preferate</title>
+    
+</head>
+<body>
+
+    <header>
+        <h1>Retetele mele preferate</h1>
+    </header>
+
+    <div class="intro">
+        <p>Bine ati venit în colecția mea de rețete pentru un pranz de vis! Explorează preparatele delicioase de mai jos și abonează-te la newsletter pentru a primi săptămânal rețete noi direct pe email.</p>
+    </div>
+
+    <main>
+        <section>
+            <h2>Rețete</h2>
+            <div class="retete">
+                <div class="reteta">
+                    <img src="C:\Users\User\Desktop\vs\download (1).jfif" alt="Salata mediteraneana cu rosii si burrata">
+                    <h3>Salata mediteraneana cu rosii si burrata</h3>
+                    <p>Un inceput de vis pentru un pranz de vis. Rosii aromate combinate cu frunze de salata verde, oregano, ulei de masline si atingerea cremoasa a branzei</p>
+                    <a href="https://joyfoodsunshine.com/burrata-salad/" target="_blank" rel="noopener noreferrer">Vezi rețeta completă</a>
+                </div>
+
+                <div class="reteta">
+                    <img src="C:\Users\User\Desktop\vs\tuna-tartare-1.jpg" alt="Tartar de ton">
+                    <h3>Tartar de ton</h3>
+                    <p>Experimentati finetea bucatelelor de ton atent alese.</p>
+                    <a href="https://pickledplum.com/tuna-tartare/" target="_blank" rel="noopener noreferrer">Vezi rețeta completă</a>
+                </div>
+
+                <div class="reteta">
+                    <img src="C:\Users\User\Desktop\vs\download.jfif" alt="Risotto cu ciuperci si trufe">
+                    <h3>Risotto cu ciuperci si trufe</h3>
+                    <p>Un risotto completeaza pranzul cu aromele sale rafinate.</p>
+                    <a href="https://www.sweetteaandthyme.com/mushroom-risotto-recipe/" target="_blank" rel="noopener noreferrer">Vezi rețeta completă</a>
+                </div>
+
+                <div class="reteta">
+                    <img src="C:\Users\User\Desktop\vs\images.webp" alt="Vita Saltimbocca">
+                    <h3>Vita Saltimbocca</h3>
+                    <p>Vita care se topeste in gura este de nelipsit pe masa.</p>
+                    <a href="https://www.insidetherustickitchen.com/veal-saltimbocca/" target="_blank" rel="noopener noreferrer">Vezi rețeta completă</a>
+                </div>
+
+                <div class="reteta">
+                    <img src="C:\Users\User\Desktop\vs\download (2).jfif" alt="Panna cotta">
+                    <h3>Panna cotta</h3>
+                    <p>Este timpul sa ne delectam la final cu un desert racoritor si cremos.</p>
+                    <a href="https://www.recipetineats.com/panna-cotta/" target="_blank" rel="noopener noreferrer">Vezi rețeta completă</a>
+                </div>
+            </div>
+        </section>
+
+       
+            <form>
+                <label for="nume">Nume:</label>
+                <input type="text" id="nume" name="nume" placeholder="Numele tău" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Adresa ta de email" required>
+
+                <button type="submit">Abonează-te</button>
+            </form>
+        </section>
+    </main>
+
+</body>
+</html>
+--------------------------------------
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Curriculum Vitae – Toth David Andrei</title>
+    
+
+       
+</head>
+<body>
+
+    <header>
+        <h1>Curriculum Vitae – Toth David Andrei</h1>
+    </header>
+
+    <main class="container">
+
+      
+        <section class="date-personale">
+            <img src="C:\Users\User\Desktop\vs\download (3).jfif" alt="Fotografie Toth David Andrei">
+            <div>
+                <p><strong>Nume complet:</strong> Popescu Andrei</p>
+                <p><strong>Adresă:</strong> Str. Ioan Popasu nr.23 Brasov</p>
+                <p><strong>Telefon:</strong> <a href="tel:+40742114042">0742 114 042</a></p>
+                <p><strong>Email:</strong> <a href="david.toth2108@gmail.com">david.toth2108@gmail.com</a></p>
+            </div>
+        </section>
+
+      
+        <section class="sectiune">
+            <h2>Experiență profesională</h2>
+            <ul>
+                <li>
+                    <span class="subtitlu">2030 – Prezent:</span><br>
+                    <strong>Funcția:</strong> Web Developer<br>
+                    <strong>Angajator:</strong> SoftVision SRL<br>
+                    <strong>Responsabilități:</strong>
+                    <ul class="responsabilitati">
+                        <li>Crearea și întreținerea site-urilor web responsive</li>
+                        <li>Colaborare cu echipa de design și marketing</li>
+                    </ul>
+                </li>
+
+                <li>
+                    <span class="subtitlu">2028 – 2030:</span><br>
+                    <strong>Funcția:</strong> Asistent IT<br>
+                    <strong>Angajator:</strong> TechPlus SA<br>
+                    <strong>Responsabilități:</strong>
+                    <ul class="responsabilitati">
+                        <li>Suport tehnic pentru echipa internă</li>
+                        <li>Instalare și mentenanță software</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+
+        <section class="sectiune">
+            <h2>Educație și formare</h2>
+            <ul>
+                <li>
+                    <span class="subtitlu">2023 – 2027:</span> Universitatea Politehnica din București<br>
+                    <strong>Titlu obținut:</strong> Licență în Stiinte Ingineresti Aplicate<br>
+                    <strong>Specializare:</strong> Informatica Industriala
+                </li>
+                <li>
+                    <span class="subtitlu">2019 – 2020:</span> Colegiul National "Mihai Viteazul Sfantu Gheorghe"<br>
+                    <span class="subtitlu">2020 – 2023:</span> Colegiul National de Informatica "Grigore Moisil Brasov"<br>
+                    <strong>Titlu obținut:</strong> Diplomă de Bacalaureat<br>
+                    <strong>Profil:</strong> Matematică-Informatică
+                </li>
+            </ul>
+        </section>
+
+
+        <section class="sectiune">
+            <h2>Competențe personale</h2>
+            <ul>
+                <li><strong>Limbi străine:</strong>
+                    <ul class="responsabilitati">
+                        <li>Engleză – avansat</li>
+                        <li>Maghiara – mediu</li>
+                    </ul>
+                </li>
+                <li><strong>Competențe digitale:</strong>
+                    <ul class="responsabilitati">
+                        <li>Microsoft Office (Word, Excel, PowerPoint)</li>
+                        <li>HTML, CSS, JavaScript</li>
+                        <li>Photoshop, Canva</li>
+                    </ul>
+                </li>
+                <li><strong>Alte competențe:</strong>
+                    <ul class="responsabilitati">
+                        <li>Comunicare eficientă</li>
+                        <li>Lucru în echipă</li>
+                        <li>Gândire analitică</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+     
+        <section class="sectiune">
+            <h2>Informații suplimentare</h2>
+            <ul>
+                <li>Voluntar in cadrul ONG "Kastel Brasov"-</li>
+                <li>Voluntar în cadrul ONG "Aiesec Adana" –protectia mediului inconjurator</li>
+                <li>Participare la stagiul de practica organizat de Miele in 2022</li>
+            </ul>
+        </section>
+
+    </main>
+
+   
+
+</body>
+</html>
