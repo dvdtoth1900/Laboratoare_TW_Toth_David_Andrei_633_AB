@@ -1,0 +1,32 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #edc88f;
+}
+
+.card {
+    background: rgb(223, 167, 45);
+    padding: 20px;
+    width: 400px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+
+button {
+    margin-top: 10px;
+    padding: 8px 12px;
+    cursor: pointer;
+    background-color: rgb(221, 158, 12);
+    border: dotted;
+    border-color: black;
+   
+    
+}
+button:hover {background-color: #ec9410;
+    color: white;
+ box-shadow:0 8px 16px 0 rgba(0,0,0,0.6);}
+
+.ascuns {
+    display: none;
+}
